@@ -1,0 +1,2 @@
+# premium-balance-001-balance-wheel-poise-correction
+Stop guessing your balance wheel corrections. Finally, a systematic log that eliminates guesswork and saves hours of rework.  This Notion template provides a structured database to log each balance wheel's poise correction data, including weight removal/placement, timing, and results. It ensures repeatable accuracy and a clear history, so you never
